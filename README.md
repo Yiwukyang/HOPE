@@ -1,7 +1,7 @@
 # HOPE
 The source code for "Improving Hypergraph Contrastive Learning with Hyperbolic Space and Dual-level Expansion."
 Here we offer three datasets, Cora, Citeseer, and PubMed for reproducibility.
-# Rquirement
+# Requirement
     Python == 3.11
     PyTorch == 2.0.1 + cu118
     torch_geometric == 2.0.4
